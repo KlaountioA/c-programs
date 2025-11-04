@@ -3,8 +3,9 @@
 // Παράδειγμα προγράμματος που αποτελείται από ένα μόνο αρχείο .c.
 //
 // - Το τρέχουμε με Ctrl-Shift-B (ή Terminal/ Run task / Single file: compile and run)
-// - Κάνουμε debug με F5
+// - Κάνουμε debug
 
 int main() {
-    printf("This is a simple C program.\n");
+    printf("This is a simple altered C program.\n");
+
 }
